@@ -63,19 +63,4 @@ The project demonstrates basic concepts of **robotics, embedded systems, and sen
 | Right wall only       | Move Left    |
 | Otherwise             | Move Forward |
 
----
 
-## Project Structure
-
-```
-maze-solver-bot
-│
-├── maze_solver.ino
-└── README.md
-```
-
----
-
-## Author
-
-Developed as part of a robotics project using Arduino.
